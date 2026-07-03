@@ -24,20 +24,3 @@ I'm passionate about building scalable backend applications, solving Data Struct
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshSabbavarapu&layout=compact&theme=tokyonight)
 
----
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=NiteshSabbavarapu&theme=tokyonight&no-frame=true&margin-w=8)
-
----
-
-### 📫 Connect
-
-- LinkedIn: https://linkedin.com/in/your-link
-- LeetCode: https://leetcode.com/u/your-id
-- Email: your@email.com
-
----
-
-![](https://komarev.com/ghpvc/?username=NiteshSabbavarapu&style=for-the-badge)
